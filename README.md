@@ -1,10 +1,10 @@
-<p align="middle">
-    <img src="./photograph.jpeg" alt="Sun#Tree" width="220px">
-</p>
+<img align="right" src="./photograph.jpeg" alt="Sun#Tree" width="220px">
 
-<h2>Welcome 👋</h2>
-<ul>
-  <li>💻 I am <b>Nehal</b>, also known as <b>nehalsci</b>.</li>
-  <li>🌐 I am from <b>Bangladesh</b>.</li>
-  <li>🤖 I mainly work with the <b>computer</b>.</li>
-</ul>
+## Welcome 👋
+- 💻 I am **Nehal**, also known as **nehalsci**.
+- 🌐 I am from **Bangladesh**.
+- 🤖 I mainly work with the **computer**.
+
+## Little Projects 🛠️
+- **Node Packages**:
+  - [licenseforge](https://github.com/nehalsci/licenseforge) - Generate a license boilerplate using a command-line and NodeJS.
